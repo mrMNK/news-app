@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="edit_text_hint">Enter text to search news</string>
+</resources>
